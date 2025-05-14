@@ -1,2 +1,4 @@
 # Confessions of a Lovergirl
-This is the promotional website for Rachel Bochner's Lovergirl EP.
+Promotional website for Rachel Bochner’s Lovergirl EP, created in close collaboration with the artist.
+
+<img src="./screenshot.png" />
