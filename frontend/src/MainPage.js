@@ -277,7 +277,7 @@ function MainPage() {
         <small>
             By using this service, you agree that the content you submit complies with our terms and conditions. We are not liable for any user-generated content. If you believe any submission is in breach of the terms outlined prior to submission, contains inappropriate material, or violates any rights, please contact us at <a href="mailto:rachelbochnermusic@gmail.com">rachelbochnermusic@gmail.com</a> for prompt review and action.
             <br></br>
-            Source on <a href="https://github.com/enbytedev/LovergirlConfessions">GitHub</a> | Made with ❤️ by <a href="https://github.com/enbytedev">enbytedev</a>
+            Source on <a href="https://github.com/confect1ondev/LovergirlConfessions">GitHub</a> | Made with ❤️ by <a href="https://github.com/confect1ondev">confect1ondev</a>
         </small>
         </footer>
       </div>
